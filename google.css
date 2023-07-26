@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin: 0%;
+    padding: 0%;
+    /* border: solid 1px; */
+}
+
+header {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+body {
+    background-image: url('./IMG/wallpaper.avif');
+}
+
+header>a,
+span,
+img {
+    margin: 0.5rem;
+    padding: 5px;
+}
+
+header>img {
+    width: 45px;
+    height: 45px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+button {
+    background-color: #303134;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #F2F2F2;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
+
+footer>div {
+    padding: 15px;
+}
+
+#secondFooter {
+    display: flex;
+    justify-content: space-between;
+}
+
+#central {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#secondary {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    color: aliceblue;
+    font-weight: 600;
+    margin: 35px;
+}
+
+#edit {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+
+#logo-google {
+    width: 30%;
+    margin: 2%;
+}
+
+
+/*Buscador*/
+#search-input {
+    background-color: white;
+    color: rgb(69, 65, 65);
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    height: 3rem;
+}
+
+#search-input img {
+    height: 80%;
+}
+
+input {
+    font-weight: 700;
+    width: 25vw;
+    height: 80%;
+    border: none;
+    display: flex;
+    flex-direction: row;
+}
+
+input:focus {
+    outline: none;
+}
+
+/* iconos */
+.icon {
+    color: white;
+    cursor: pointer;
+}
+
+.bio {
+    color: rgb(75, 141, 241);
+}
