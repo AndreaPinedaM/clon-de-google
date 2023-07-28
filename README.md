@@ -3,10 +3,10 @@
 Proyecto realizado para el Bootcamp de Tecnolochicas PRO Summer Camp, con la intención de aplicar los conocimientos obtenidos en HTML y CSS. 
 
 ## Indice
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. Objetivos de aprendizaje](url)
-* [4. Requisitos](url)
+* [1. Intro](https://github.com/AndreaPinedaM/clon-de-google#1-intro)
+* [2. Demo](https://github.com/AndreaPinedaM/clon-de-google#2-demo)
+* [3. Objetivos de aprendizaje](https://github.com/AndreaPinedaM/clon-de-google#3-objetivos-del-aprendizaje)
+* [4. Requisitos](https://github.com/AndreaPinedaM/clon-de-google#4-requisitos)
 
 ****
 ## 1. Intro
@@ -18,7 +18,7 @@ En cuanto a CSS (del inglés Cascading Style Sheets u “hojas de estilo en casc
 ## 2. Demo
 Puedes entrar a ver el demo en el siguiente link: https://andreapinedam.github.io/clon-de-google/
 
-![imagen]("./../IMG/google-logo.png")
+![imagen]("./IMG/google-logo.png")
 
 ## 3. Objetivos del aprendizaje 
 El objetivo principal de este proyecto es desarrollar una interfaz lo más similar al famoso navegador utilizando HTML y CSS. 
